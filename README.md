@@ -4,9 +4,9 @@
 🎯 SANS | CompTIA | CCTC | B.S. Info Assurance (WGU)
 
 ## 🧰 Tools & Skills
-- Languages: `Python`, `SQL', `Bash`, `PowerShell`, `SQL`
+- Languages: `Python`, `SQL`, `Bash`, `PowerShell`, `SQL`
 - Tech: `Security Onion`, `Trino`, `Splunk`, `KQL`, `ELK`, `Kibana`
-- Domains: Threat Hunting, Incident Response, OT Security, Cloud Security, Cloud Infrastrucure, IT
+- Domains: `Threat Hunting`, `Incident Response`, `OT Security`, `Cloud Security`, `Cloud Infrastrucure`, `IT`
 
 ## 📦 Projects
 -🔐 [Custom HTTPS Chrome Keylogger Framework](https://github.com/Chrome_Keylogger)
