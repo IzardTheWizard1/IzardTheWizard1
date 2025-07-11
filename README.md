@@ -1,7 +1,6 @@
 # Izrael Fisi 👨‍💻
 
-🇺🇸 Cybersecurity Researcher  
-🎯 SANS | CompTIA | CCTC | B.S. Info Assurance (WGU)
+### 🇺🇸 Cybersecurity Researcher  
 
 ## 🧰 Tools & Skills
 - Languages: `Python`, `SQL`, `Bash`, `PowerShell`, `SQL`
