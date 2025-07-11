@@ -1,16 +1,19 @@
-## Hi there 👋
+# Izrael Fisi 👨‍💻
 
-<!--
-**IzardTheWizard1/IzardTheWizard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇸 Cybersecurity Researcher  
+🎯 SANS | CompTIA | CCTC | B.S. Info Assurance (WGU)
 
-Here are some ideas to get you started:
+## 🧰 Tools & Skills
+- Languages: `Python`, `C++`, `Bash`, `PowerShell`, `SQL`
+- Tech: `Security Onion`, `Trino`, `Splunk`, `KQL`, `ELK`
+- Domains: Threat Hunting, Incident Response, OT Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Projects
+]
+
+## 📫 Contact Me
+- 📧 izrael.n.fisi@icloud.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/izrael-fisi)
+
+> 🧪 For research use only. I build for **defensive and red team simulations**.
+
